@@ -11,7 +11,7 @@ The application stores journal entries in a text file and allows users to add, v
 # 🔗 Resources
 
 * Repository: https://github.com/patel0506/PR.-6-File-Operator
-* Explanation video: https://drive.google.com/file/d/1yrzyaop2C8AQw6Ste2itMUpR_8cyxGzX/view?usp=sharing
+* Explanation video: https://drive.google.com/file/d/1q4pKGfBPTAP2mjYQL80P6FElAar5zD3F/view?usp=sharing
 
 ---
 
